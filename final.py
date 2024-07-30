@@ -190,7 +190,7 @@ def main():
                     },
                     {
                         "role": "user",
-                        "content": f"{articles_content}\n나이: {age}세\n투자경력: {year}년\n보유종목: {keyword}"
+                        "content": f"\n나이: {age}세\n투자경력: {year}년\n보유종목: {keyword}"
                     }
                 ]
 
