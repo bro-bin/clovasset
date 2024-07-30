@@ -208,7 +208,7 @@ def main():
 
                 # 튜닝 모델 API 호출
                 completion_executor = CompletionExecutor(
-                    host='https://clovastudio.stream.ntruss.com',
+                    host='https://makesomequizz.streamlit.app/',
                     api_key='NTA0MjU2MWZlZTcxNDJiY45r/DkTDk7oBmqKVrH2tgppYRF/3kCtv0bwtT7ihqUM',
                     api_key_primary_val='2vb3PzZVsMZcjwGY1yQG7xbuK0FqU7hrFGli34ou',
                     request_id='b7da7532-f011-4885-bf87-c8fca5519ffa'
@@ -262,3 +262,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
+const WebSocket = require('ws)
